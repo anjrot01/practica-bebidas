@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc2633b5021efb16b1616b099ec210ca",
+    "revision": "3d55d3a23faf42579f50af9e326e70b5",
     "url": "/practica-bebidas/index.html"
   },
   {
-    "revision": "1cebf0ceb2dd4d41fd6e",
-    "url": "/practica-bebidas/static/css/main.9040a63c.chunk.css"
+    "revision": "0dbb05aa59b50365a851",
+    "url": "/practica-bebidas/static/css/main.edaec125.chunk.css"
   },
   {
     "revision": "7d897dec8aec13152d5d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/practica-bebidas/static/js/2.b910de57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cebf0ceb2dd4d41fd6e",
-    "url": "/practica-bebidas/static/js/main.66cd7302.chunk.js"
+    "revision": "0dbb05aa59b50365a851",
+    "url": "/practica-bebidas/static/js/main.d9de254f.chunk.js"
   },
   {
     "revision": "0cc1a4ea343797f2997d",
