@@ -11,7 +11,6 @@ script:
   - yarn build
 deploy:
   provider: pages
-  cleanup: true
   keep_history: true
   token: $GITHUB_TOKEN
   local_dir: build/
