@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/practica-bebidas/static/css/main.edaec125.chunk.css",
-    "main.js": "/practica-bebidas/static/js/main.d9de254f.chunk.js",
-    "main.js.map": "/practica-bebidas/static/js/main.d9de254f.chunk.js.map",
+    "main.js": "/practica-bebidas/static/js/main.f0d1d777.chunk.js",
+    "main.js.map": "/practica-bebidas/static/js/main.f0d1d777.chunk.js.map",
     "runtime-main.js": "/practica-bebidas/static/js/runtime-main.2d6a3260.js",
     "runtime-main.js.map": "/practica-bebidas/static/js/runtime-main.2d6a3260.js.map",
     "static/js/2.b910de57.chunk.js": "/practica-bebidas/static/js/2.b910de57.chunk.js",
     "static/js/2.b910de57.chunk.js.map": "/practica-bebidas/static/js/2.b910de57.chunk.js.map",
     "index.html": "/practica-bebidas/index.html",
-    "precache-manifest.7e59b219d91c55e871f2eb140ac9af92.js": "/practica-bebidas/precache-manifest.7e59b219d91c55e871f2eb140ac9af92.js",
+    "precache-manifest.b9676732629edbc2d66407d0c359f19a.js": "/practica-bebidas/precache-manifest.b9676732629edbc2d66407d0c359f19a.js",
     "service-worker.js": "/practica-bebidas/service-worker.js",
     "static/css/main.edaec125.chunk.css.map": "/practica-bebidas/static/css/main.edaec125.chunk.css.map",
     "static/js/2.b910de57.chunk.js.LICENSE.txt": "/practica-bebidas/static/js/2.b910de57.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2d6a3260.js",
     "static/js/2.b910de57.chunk.js",
     "static/css/main.edaec125.chunk.css",
-    "static/js/main.d9de254f.chunk.js"
+    "static/js/main.f0d1d777.chunk.js"
   ]
 }

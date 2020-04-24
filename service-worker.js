@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/practica-bebidas/precache-manifest.7e59b219d91c55e871f2eb140ac9af92.js"
+  "/practica-bebidas/precache-manifest.b9676732629edbc2d66407d0c359f19a.js"
 );
 
 self.addEventListener('message', (event) => {
