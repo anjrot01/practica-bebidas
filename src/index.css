@@ -9,7 +9,7 @@ body {
   min-height: 100%;
 }
 header {
-  background-color: #ec3a49;
+  background-color: #696a81;
   color: white;
   padding: 5rem 0;
 }
@@ -18,4 +18,17 @@ h1 {
   font-weight: 900;
   text-align: center;
   font-size: 3rem;
+}
+h4 {
+  text-align: center;
+}
+input.btn.btn-block.btn-primary {
+  background: #696a81;
+  border: unset;
+}
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  background: #000;
+  border: #000;
 }
