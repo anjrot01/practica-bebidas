@@ -14,7 +14,7 @@ const Formulario = () => {
 
   // Función para leer los contenidos
 
-  const obtenerDatosBusqueda = e => {
+  const obtenerDatosBusqueda = (e) => {
     guardarBusqueda({
       ...busqueda,
       [e.target.name]: e.target.value
@@ -24,9 +24,8 @@ const Formulario = () => {
   return (
     <form
       className="col-12"
-      onSubmit={e => {
+      onSubmit={(e) => {
         e.preventDefault();
-        console.log("nonnnnnnnnn");
         buscarRecetas(busqueda);
         guardarConsultar(true);
       }}
@@ -37,12 +36,18 @@ const Formulario = () => {
 
       <div className="row mt-4">
         <div className="col-md-4">
-          <input type="text" className="form-control" placeholder="Buscar por Ingredientes" name="nombre" onChange={obtenerDatosBusqueda} />
+          <input
+            type="text"
+            className="form-control"
+            placeholder="Buscar por Ingredientes"
+            name="nombre"
+            onChange={obtenerDatosBusqueda}
+          />
         </div>
         <div className="col-md-4">
           <select className="form-control" name="categoria" onChange={obtenerDatosBusqueda}>
             <option value="">-- Selecciona Categoría --</option>
-            {categorias.map(categoria => (
+            {categorias.map((categoria) => (
               <option key={categoria.strCategory} value={categoria.strCategory}>
                 {categoria.strCategory}
               </option>
